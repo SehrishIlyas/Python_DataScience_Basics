@@ -23,7 +23,13 @@ Unlike logistic regression, SVM does not provide probabilities, but only outputs
 A key innovation associated with SVM 
 
 ### Decision Tree
- It breaks down the dataset into a smaller subset and associate decision with it. As a result, we get a tree with decision nodes and leaf nodes. A learning algorithm that breaks the input space into regions and has separate parameters for each region.
+It breaks down the dataset into a smaller subset and associate decision with it. As a result, we get a tree with decision nodes and leaf nodes. A learning algorithm that breaks the input space into regions and has separate parameters for each region.
+
+### Random Forest
+Random forest algorithm creates decision trees on data samples and then gets the prediction from each of them and finally selects the best solution by means of voting. It is an ensemble method which is better than a single decision tree because it reduces the over-fitting by averaging the result.
+
+ ### Naive Bayes
+Its is a classification machine learning algorithm that helps to classify the data based upon the conditional probability values computation. It implements the Bayes theorem for the computation and used class levels represented as feature values or vectors of predictors for classification. Naive Bayes Algorithm is a fast algorithm for classification problems. This algorithm is a good fit for real-time prediction, multi-class prediction, recommendation system, text classification, and sentiment analysis use cases. 
 
 ## Unsupervised Learning
 
