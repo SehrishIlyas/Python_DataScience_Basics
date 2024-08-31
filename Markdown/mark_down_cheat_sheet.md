@@ -1,9 +1,3 @@
-# Participant
-Title= "Student"
-Name= "Sehrish Ilyas"
-email = "sehrishilyas3@gmail.com"
-whatsapp = "00923344698901"
-
 # My First Markdown
 
 # Content
